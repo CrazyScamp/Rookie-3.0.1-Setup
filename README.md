@@ -1,6 +1,7 @@
 # Rookie Sideloader Setup Guide
 
-## 🛡 REAL TIME PROTECTION (Windows Defender Exclusion)
+## 🛡 REAL TIME PROTECTION
+(Windows Defender Exclusion)
 
 1. Open your **C: Drive**
 2. Create a folder named: `RSL`
@@ -29,7 +30,8 @@
 ```androidsideloader.exe```
 
 
-Rookie should now connect to the updated servers using the modified `vrp-public.json`.
+Rookie should now connect to the updated servers using the modified
+`vrp-public.json`.
 
 ---
 
