@@ -25,7 +25,7 @@ href="https://github.com/KaladinDMP/Rookie-3.0.1-Setup/raw/main/AndroidSideloade
   </a>
   </p>
 
-**Rookies Notes**
+** NOTES **
 <br>
 You may have to disable security for your browser to download (not always), if you arent sure how, google ```"how to shut off browser security for Chrome/Firefox/Opera/Whatever you use."```
 <br>
