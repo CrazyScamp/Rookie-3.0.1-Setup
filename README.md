@@ -36,11 +36,8 @@ Also make sure you download directly to your excluded folder for best results.
 </p>
 
 ** This .JSON File is updated with a new Database for Games **
-<p>
-  <a
-<code style="Gold : name_color">BIG Thanks to the_vrSrc for the Database</code>
-  </a>
-</p>
+
+<code style="color : Gold">BIG Thanks to the_vrSrc for the Database</code>
 
 
 ---
