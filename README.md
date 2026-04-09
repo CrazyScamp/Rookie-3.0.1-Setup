@@ -39,7 +39,7 @@ Also make sure you download directly to your excluded folder for best results.
 <p>
   <a
     # Markdown
-<span style="color:red;">BIG Thanks to "the_vrSrc" for the Database > </span>
+<span style="color:red;">BIG Thanks to "the_vrSrc" for the Database</span>
   </a>
 </p>
 
