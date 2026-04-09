@@ -42,9 +42,10 @@ If this is not possible "Right Click" Download Button and "Save Link As" This wi
 
 ** This .JSON File is updated with a new Database for Games **
 
-<span style="color:red">
-BIG Thanks to the_vrSrc for the Database
-</span>
+# BIG Thanks to the_vrSrc for the Database
+
+<style>H1{color:Blue;}</style>
+
 
 
 ---
