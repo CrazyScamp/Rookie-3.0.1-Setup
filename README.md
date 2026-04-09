@@ -36,6 +36,7 @@ https://github.com/CrazyScamp/Rookie-3.0.1-Setup/blob/main/vrp-public.json
 ```androidsideloader.exe```
 
 
+
 Rookie should now connect to the updated servers using the modified `vrp-public.json`.
 
 ---
