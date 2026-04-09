@@ -1,7 +1,6 @@
 # Rookie Sideloader Setup Guide
 
-## 🛡 REAL TIME PROTECTION
-(Windows Defender Exclusion)
+## 🛡 REAL TIME PROTECTION (Windows Defender Exclusion)
 
 1. Open your **C: Drive**
 2. Create a folder named: `RSL`
@@ -17,17 +16,17 @@
 12. Click **Select Folder**
 
 ---
+⏬ DOWNLOAD ROOKIE 3.0.1 + vrp-public.json
+https://github.com/VRPirates/rookie/releases/download/v3.0.1/AndroidSideloader.exe
 
-## ⏬️ DOWNLOAD ROOKIE 3.0.1
-
-https://www.mediafire.com/file/u982l5dqq4ozx93/Rookie_3.0.1.zip/file
-
----
+https://github.com/CrazyScamp/Rookie-3.0.1-Setup/blob/main/vrp-public.json
 
 ## 📦 INSTALLING ROOKIE
 
-1. Open the downloaded `.zip` file
-2. Copy **ALL files** into:
+1. Move the downloaded exe into
+
+```C:\RSL\Rookie```
+2. Move the download .json into
 
 ```C:\RSL\Rookie```
 
@@ -36,8 +35,7 @@ https://www.mediafire.com/file/u982l5dqq4ozx93/Rookie_3.0.1.zip/file
 ```androidsideloader.exe```
 
 
-Rookie should now connect to the updated servers using the modified
-`vrp-public.json`.
+Rookie should now connect to the updated servers using the modified `vrp-public.json`.
 
 ---
 
