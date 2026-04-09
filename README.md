@@ -30,7 +30,7 @@ Also make sure you download directly to your excluded folder for best results.
 <br>
 <br>
 <p>
-  <a href="https://github.com/CrazyScamp/Rookie-3.0.1-Setup/blob/main/vrp-public.json">
+  <a href="https://github.com/CrazyScamp/Rookie-3.0.1-Setup/releases/download/Rookie/vrp-public.json">
     <img src="https://img.shields.io/badge/Download-JSON-blue?style=for-the-badge">
   </a>
 </p>
