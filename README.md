@@ -42,7 +42,7 @@ If this is not possible "Right Click" Download Button and "Save Link As" This wi
 
 ** This .JSON File is updated with a new Database for Games **
 
-# BIG Thanks to the_vrSrc for the Database
+BIG Thanks to the_vrSrc for the Database
 
 
 
