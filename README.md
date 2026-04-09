@@ -17,7 +17,7 @@
 
 ---
 
-##  ⏬ DOWNLOAD LINKS <p><img 
+##  ⏬ DOWNLOAD LINKS
 <br>
 <p>
   <a href="https://github.com/KaladinDMP/Rookie-3.0.1-Setup/raw/main/AndroidSideloader.exe">
