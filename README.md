@@ -17,7 +17,7 @@
 
 ---
 
-##  DOWNLOAD LINKS <p><img src="https://img.shields.io/badge/Download-Links-blue?style=for-the-badge"></p>
+##  ⏬ DOWNLOAD LINKS <p><img src="https://img.shields.io/badge/Download-Links-blue?style=for-the-badge"></p>
 <br>
 <br>
 <p>
