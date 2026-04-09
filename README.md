@@ -18,9 +18,9 @@
 ---
 
 ##  ⏬ DOWNLOAD LINKS
+
 href="https://github.com/KaladinDMP/Rookie-3.0.1-Setup/raw/main/AndroidSideloader.exe">
-    <img
-src="https://img.shields.io/badge/Download-Rookies-blue?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Download-Rookie-blue?style=for-the-badge">
   </a>
 </p>
  src="https://img.shields.io/badge/Download-Rookies-blue?style=for-the-badge">
