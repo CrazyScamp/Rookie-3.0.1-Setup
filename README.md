@@ -16,13 +16,14 @@
 12. Click **Select Folder**
 
 ---
-## ⏬ DOWNLOAD ROOKIE + vrp-public.json
+
+## ⏬ DOWNLOAD ROOKIE + UPDATED.json
 
 https://github.com/VRPirates/rookie/releases/download/v3.0.1/AndroidSideloader.exe
 
 https://github.com/CrazyScamp/Rookie-3.0.1-Setup/blob/main/vrp-public.json
 
-
+---
 
 ## 📦 INSTALLING ROOKIE
 
