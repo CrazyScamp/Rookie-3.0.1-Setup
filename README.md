@@ -35,7 +35,7 @@ Also make sure you download directly to your excluded folder for best results.
   </a>
 </p>
 
-**JSON Note:** This opens on another page. Choose the 'download raw' button.<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/503a4afb-9fc6-490e-af32-aca985443221" />
+<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/503a4afb-9fc6-490e-af32-aca985443221" />
 
 
 ---
