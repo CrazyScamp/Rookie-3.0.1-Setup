@@ -27,11 +27,11 @@ href="https://github.com/KaladinDMP/Rookie-3.0.1-Setup/raw/main/AndroidSideloade
 
 ** NOTES **
 <br>
-You may have to disable security for your browser to download (not always), if you arent sure how, google ```"how to shut off browser security for Chrome/Firefox/Opera/Whatever you use."```
+You may have to disable security for your browser to download (not always), if you arent sure how, google ```"how to shut off browser security for Chrome/Firefox/Opera Whatever you use."```
 <br>
 Also make sure you download directly to your Rookie excluded folder for best results.
 <br>
-If this is not possible "Right Click" Download Button and "Save Link As" This will alow you to choose your Excluded Rookie Folder
+If this is not possible "Right Click" Download Button and "Save Link As" This will allow you to choose your Excluded Rookie Folder
 <br>
 <br>
 <p>
